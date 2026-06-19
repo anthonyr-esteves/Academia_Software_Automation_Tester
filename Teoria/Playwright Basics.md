@@ -1,6 +1,6 @@
 # 🟪 Playwright Basics
 
-Resumo direto dos conceitos essenciais de Playwright, framework moderno para automação UI e API, usado em projetos profissionais e na formação CRE.
+Resumo direto dos conceitos essenciais de Playwright, framework moderno para automação UI e API, usado em projetos profissionais.
 
 ---
 
