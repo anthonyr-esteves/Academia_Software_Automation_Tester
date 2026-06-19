@@ -36,4 +36,6 @@ Resumo simples e direto dos conceitos essenciais de Selenium, a ferramenta clás
 
 ---
 
-📘 Para aprofundar: **[Documentação Oficial Selenium](ca://s?q=Abrir_documentacao_Selenium)**
+📘 Para aprofundar: **[Documentação Oficial Selenium](ca://s?q=Abrir_documentacao_Selenium)**  
+🌐 Documentação oficial: https://www.selenium.dev/documentation/
+
