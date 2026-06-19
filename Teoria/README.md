@@ -13,9 +13,9 @@ Cada ficheiro tem entre 20–30 linhas e cobre apenas o essencial.
 - **[CI/CD](CI_CD%20Pipelines.md)** — Integração Contínua e Entrega Contínua.
 
 ### 🧪 Automação de Testes
+- **[Selenium Basics](Selenium%20Basics.md)** — Base clássica da automação UI.
 - **[Cypress Basics](Cypress%20Basics.md)** — Conceitos essenciais do framework.  
 - **[Playwright Basics](Playwright%20Basics.md)** — Fundamentos modernos de automação UI/API.  
-- **[Selenium Basics](Selenium%20Basics.md)** — Base clássica da automação UI.
 
 ---
 
