@@ -1,7 +1,7 @@
 # 🟦 DevOps Concepts
 
 Este documento resume os conceitos essenciais de DevOps aplicados ao trabalho de um QA Automation Engineer.  
-Focado no que é realmente usado na prática e no que foi abordado na formação CRE.
+Focado no que é realmente usado na prática e no que foi abordado na Academia.
 
 ---
 
